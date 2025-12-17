@@ -35,43 +35,6 @@
     </url>
 
     <url>
-        <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-bandeirantes</loc>
-        <lastmod>2025-12-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-        <url>
-        <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-ouro-preto</loc>
-        <lastmod>2025-12-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-        <url>
-        <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-castelo</loc>
-        <lastmod>2025-12-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-        <url>
-        <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-jaragua</loc>
-        <lastmod>2025-12-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-        <url>
-        <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-sao-luiz</loc>
-        <lastmod>2025-12-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-        <url>
-        <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-dona-clara</loc>
-        <lastmod>2025-12-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
         <loc>https://maridotec.com.br/nossos-servicos/instalacao-de-tomadas</loc>
         <lastmod>2025-12-14</lastmod>
         <changefreq>daily</changefreq>
@@ -769,4 +732,102 @@
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
+
+  <url>
+    <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-bandeirantes-bh</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-ouro-preto-bh</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-sao-luiz-bh</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-castelo-bh</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-dona-clara-bh</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-jaragua-bh</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-cidade-nova-bh</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maridotec.com.br/nossos-servicos/instalacao-de-ventilador-de-teto-bairro-bandeirantes-bh</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maridotec.com.br/nossos-servicos/instalacao-de-ventilador-de-teto-bairro-ouro-preto-bh</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maridotec.com.br/nossos-servicos/instalacao-de-ventilador-de-teto-bairro-sao-luiz-bh</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maridotec.com.br/nossos-servicos/instalacao-de-ventilador-de-teto-bairro-castelo-bh</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maridotec.com.br/nossos-servicos/instalacao-de-ventilador-de-teto-bairro-dona-clara-bh</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maridotec.com.br/nossos-servicos/instalacao-de-ventilador-de-teto-bairro-jaragua-bh</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maridotec.com.br/nossos-servicos/instalacao-de-ventilador-de-teto-bairro-cidade-nova-bh</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>    
 </urlset>
