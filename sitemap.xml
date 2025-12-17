@@ -29,10 +29,48 @@
     </url>
     <url>
         <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas</loc>
-        <lastmod>2025-12-14</lastmod>
+        <lastmod>2025-12-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
+
+    <url>
+        <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-bandeirantes</loc>
+        <lastmod>2025-12-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        <url>
+        <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-ouro-preto</loc>
+        <lastmod>2025-12-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        <url>
+        <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-castelo</loc>
+        <lastmod>2025-12-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        <url>
+        <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-jaragua</loc>
+        <lastmod>2025-12-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        <url>
+        <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-sao-luiz</loc>
+        <lastmod>2025-12-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        <url>
+        <loc>https://maridotec.com.br/nossos-servicos/troca-de-tomadas-bairro-dona-clara</loc>
+        <lastmod>2025-12-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
     <url>
         <loc>https://maridotec.com.br/nossos-servicos/instalacao-de-tomadas</loc>
         <lastmod>2025-12-14</lastmod>
